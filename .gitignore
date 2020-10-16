@@ -1,0 +1,7 @@
+# Project exclude paths
+/01-consumer-8080/target/
+/01-provider-8081/target/
+/02-nacos-consumer-8080/target/
+/02-nacos-provider-8081/target/
+/03-nacos-config-provider-8081/target/
+/03-nacos-config-provider-refresh-8081/target/
