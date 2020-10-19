@@ -12,6 +12,6 @@ public class A1 {
 
     }
     public  void test() {
-        System.out.println(123);
+        System.out.println(123333);
     }
 }
