@@ -8,4 +8,7 @@ package com.abc.consumer.bean;
  * @Version: 1.0
  */
 public class A1 {
+    public  void test() {
+        System.out.println(123);
+    }
 }
